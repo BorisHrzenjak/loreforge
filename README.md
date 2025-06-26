@@ -2,6 +2,9 @@
 
 A comprehensive AI-powered D&D 5th Edition campaign manager with intelligent dungeon master capabilities. Run complete campaigns with persistent memory, character management, and campaign parsing - all through a beautiful command-line interface.
 
+![intro_image](https://github.com/user-attachments/assets/57a2457e-4828-4094-a7c9-2ec93954482f)
+
+
 ## ✨ Features
 
 ### 🎭 AI Dungeon Master
