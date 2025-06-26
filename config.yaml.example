@@ -1,0 +1,30 @@
+# AI Dungeon Master Configuration File
+# Copy this file to config.yaml and customize as needed
+
+# AI Configuration
+ollama_url: "http://localhost:11434"
+ai_model: "llama3.1"
+temperature: 0.7
+max_context_length: 4096
+
+# Game Settings
+auto_save_frequency: 5  # Save every N actions
+dice_animation: true
+show_dice_details: true
+show_help_hints: true
+confirm_dangerous_actions: true
+
+# UI Settings
+theme: "dark"
+
+# Advanced Settings
+debug_mode: false
+log_level: "INFO"
+max_memory_entries: 1000
+
+# File Paths (will be created automatically)
+data_dir: "data"
+campaigns_dir: "campaigns"
+characters_dir: "characters"
+database_path: "data/dm.db"
+vector_db_path: "data/chroma_db"
